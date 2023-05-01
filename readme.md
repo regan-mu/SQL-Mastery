@@ -16,6 +16,6 @@ This course was created for #30_days_of_SQL challenge in collaboration with [Nai
 | :----: | :---: |
 | 1 | Introduction to SQL |
 | 2 | SQL Queries |
-| 3 | Aggregate Functions |
+| 3 | Summary Statistics |
 | 4 | Grouping in SQL |
 ...
