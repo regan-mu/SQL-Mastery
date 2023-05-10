@@ -17,5 +17,6 @@ This course was created for #30_days_of_SQL challenge in collaboration with [Nai
 | 1 | Introduction to SQL | [Recording](https://youtu.be/wr50Rt5NPH0) |
 | 2 | SQL Queries | [Recording](https://youtu.be/eS3Vzx0Vz8Q) |
 | 3 | Summary Statistics | [Recording](https://youtu.be/XhEovmwfbYQ) |
-| 4 | Group Summary Statistics | ... |
+| 4 | Group Summary Statistics | [Recording](https://youtu.be/wq9xAek57QM) |
+| 5 | SQL Subqueries | ... |
 ...
